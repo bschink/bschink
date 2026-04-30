@@ -1,11 +1,11 @@
 ### Hi, I'm Bene 🐛
 
 ML researcher, currently finishing my MSc in Computer Science at the
-University of Hamburg. My thesis applies world models and reinforcement
-learning to games, in collaboration with Chi Jin's group at
-Princeton.
+University of Hamburg. My thesis is part of Chi Jin's group at Princeton,
+supervised by Seth Karten — applying world models and reinforcement
+learning to long-horizon planning in games.
 
-🔭 **Currently:** training world models for games.
+🔭 **Currently:** training world models for long-horizon RL.
 
 📍 **Find me:**
 <!-- - Website — [bschink.github.io](bschink.github.io) -->
